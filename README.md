@@ -1,6 +1,7 @@
 # Webview-app-for-any-website
 
-# Android 5+
+# Prerequisites:
+Project was built on Android Studio and requires minimum Android API 21+ (5.0 Lollipop) SDK to test run.
 
 # Features:
 1. Progress Bar below Toolbar & Progress Dialog.
